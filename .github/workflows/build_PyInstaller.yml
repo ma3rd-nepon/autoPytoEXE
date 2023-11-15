@@ -45,7 +45,7 @@ jobs:
     - name: Upload exe file to actions
       uses: actions/upload-artifact@v3
       with:
-        name: NAME
+        name: Windows Build
         path: D:\a\autoPytoEXE\autoPytoEXE\dist\test_file.exe
       continue-on-error: true
       if: ${{ always() }}
