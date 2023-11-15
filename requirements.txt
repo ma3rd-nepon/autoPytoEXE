@@ -1,0 +1,4 @@
+Nuitka==1.8.6
+Pyinstaller==6.2.0
+pep8==1.7.1
+pycodestyle==2.11.1
