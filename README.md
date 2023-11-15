@@ -45,6 +45,12 @@ Workflow создавать Python Application (можно поэксперим�
 
 после чего (если пункты вначале файла были выполнены) у вас при каждом пуше проекта должен начинаться workflow в артефактах которого будут лежать ваши exeшники
 
+![actions](https://github.com/ma3rd-nepon/autoPytoEXE/blob/main/auto_compiling_to_exe/actions.png)
+
+![workflows](https://github.com/ma3rd-nepon/autoPytoEXE/blob/main/auto_compiling_to_exe/workflows.png)
+
+![artifacts](https://github.com/ma3rd-nepon/autoPytoEXE/blob/main/auto_compiling_to_exe/artifacts.png)
+
 никаких токенов не требуется
 
 EN:
@@ -86,5 +92,11 @@ upload the build file.yml to the repository/.github/workflows
 `REPLACE ALL THE WORDS HIGHLIGHTED BY CAPS WITH THE APPROPRIATE ONES FOR YOUR ACCOUNT (username, repository, filename)`
 
 after that (if the items were executed at the beginning of the file), every time you push the project, workflow should start, in the artifacts of which your assistants will lie
+
+![actions](https://github.com/ma3rd-nepon/autoPytoEXE/blob/main/auto_compiling_to_exe/actions.png)
+
+![workflows](https://github.com/ma3rd-nepon/autoPytoEXE/blob/main/auto_compiling_to_exe/workflows.png)
+
+![artifacts](https://github.com/ma3rd-nepon/autoPytoEXE/blob/main/auto_compiling_to_exe/artifacts.png)
 
 no tokens are required
